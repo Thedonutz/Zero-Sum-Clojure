@@ -6,11 +6,9 @@ JEFF MORGAN
 
 ## Usage
 
-CS 441
-Final Project
+
 Functional Programming / Concurrency
-For your final project, you will carry out timing studies to demonstrate the effects of concurrent
-execution as a way of enhancing performance.
+
 THE PROBLEM:
 Consider a simple game consisting of a series of n coins (n is even) of various denominations laid in a
 row. (For our purposes, the denominations do not have to match any actual real-world coins, but all
