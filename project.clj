@@ -4,4 +4,5 @@
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
-                 [com.climate/claypoole "1.1.4"]])
+                 [com.climate/claypoole "1.1.4"]
+                 [cc.qbits/knit "0.3.1"]])
